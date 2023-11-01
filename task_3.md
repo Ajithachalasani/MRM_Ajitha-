@@ -2,4 +2,4 @@ git init
 git add .
 git commit -m
 git pull
-git push -u origin temp
+git push -u origin main
